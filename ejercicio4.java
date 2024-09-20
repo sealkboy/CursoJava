@@ -6,7 +6,6 @@ public class ejercicio4 {
         System.out.println("a = " + a);
         System.out.println("b = " + b);
 
-        // Intercambiar usando XOR
         a = a ^ b; 
         b = a ^ b; 
         a = a ^ b; 
