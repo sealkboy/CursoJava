@@ -1,7 +1,7 @@
 public class ejercicio4 {
     public static void main(String[] args) {
-        int a = 5; 
-        int b = 10; 
+        int a = 56; 
+        int b = 48; 
 
         System.out.println("a = " + a);
         System.out.println("b = " + b);
