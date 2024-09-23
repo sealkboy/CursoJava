@@ -1,10 +1,10 @@
 public class ejercicio1 {
     public static void main(String[] args) {
-        int numeroEntero = 42;
-        float numeroDecimal = 3.14f;
-        char caracter = 'A';
+        int numeroEntero = 31;
+        float numeroDecimal = 6.32f;
+        char caracter = 'p';
         boolean valorLogico = true;
-        String texto = "Hola, Mundo";
+        String texto = "kevin";
 
         System.out.println("Número entero: " + numeroEntero);
         System.out.println("Número decimal: " + numeroDecimal);
